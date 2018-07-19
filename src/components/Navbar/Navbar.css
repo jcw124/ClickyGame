@@ -1,0 +1,31 @@
+.navbar li {
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .itemLeft {
+    width: 60%;
+  }
+  
+  .itemCenter {
+      width: 25%;
+  }
+  
+  .itemRight {
+    width: 15%;
+  }
+  
+  .navbar {
+    background: plum;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  }
+  
+  li {
+    color: yellow;
+    padding: 15px 0;
+  }
+  
+  body {
+    font-size: 50px;
+    background: lavenderblush;
+  }

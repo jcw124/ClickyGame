@@ -1,0 +1,9 @@
+.wrapper {
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 25px 0 50px;
+  justify-content: space-around;
+  align-content: flex-start;
+  background-image: url("./images/mi_stickerbook_tsumtsumstickadoodle_background_clouds_000c1d9c.jpeg");
+}
